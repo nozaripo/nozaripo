@@ -16,7 +16,7 @@
 - 💬 Ask me about **Python, R, Predcitive Modeling, Machine Learning, Data Analytics, Visualization**
 - 📫 How to reach me: **nozari.pouria@gmail.com**
 - 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/pouria-nozari/)
-- 📄 Know about my research on [LinkedIn](https://www.linkedin.com/in/pouria-nozari/)
+- 📄 Know about my research on [ResearchGate](https://www.researchgate.net/profile/Pouria-Nozari)
   <!--- 🤝 I’m looking for help with **MLOps**-->
 
 <h3 align="left">Connect with me:</h3>
