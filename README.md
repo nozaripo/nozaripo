@@ -1,4 +1,4 @@
-<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px">, I'm Pouria Nozari</h1>
+<h1 align="center">Hi there, I'm Pouria Nozari</h1>
 
 <h3 align="center">A passionate researcher, data scientist and engineer</h3>
 
@@ -6,10 +6,10 @@
 <h4 align="center"><span style="color": "red;">Physics-Based Modeling  |  Predictive Optimization  |  Data Science 
  |  Machine Learning & AI  |  Robotics</span></h4>
 
+  ----
 
 
-
-
+<h3 align="left">About Me:</h3>
 <!-- ![](https://komarev.com/ghpvc/?username=chuksoo&style=flat) -->
 
 - 🔭 I’m currently working on **advancing my data science career**
@@ -17,7 +17,6 @@
 <!--- 👯 I’m looking to collaborate on **Machine Learning projects**
 - 👨‍💻 My data science projects are available at my [Data Science Portfolio](https://github.com/chuksoo/Data-Science-Portfolio)-->
 - 💬 Ask me about **Python, R, Predcitive Modeling, Machine Learning, Data Analytics, Visualization**
-- 📫 How to reach me: **nozari.pouria@gmail.com**
 - 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/pouria-nozari/)
 - 📄 Know about my research on [ResearchGate](https://www.researchgate.net/profile/Pouria-Nozari)
   <!--- 🤝 I’m looking for help with **MLOps**-->
@@ -25,6 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/pouria-nozari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chukwuemeka-okoli-38686923/" height="30" width="40" /></a>
+ <a href="mailto:nozari.pouria@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="pythondance" height="30" width="35" /></a>
 <a href="https://www.leetcode.com/nozaripo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pythondance" height="30" width="40" /></a>
 </p>
 
