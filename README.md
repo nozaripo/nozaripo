@@ -1,25 +1,18 @@
 <h1 align="center">Hi there, I'm Pouria Nozari</h1>
-
 <h3 align="center">A passionate researcher, data scientist and engineer</h3>
 
-<h4 align="center">Specialized in:</h4>
-<h4 align="center"><span style="color": "red;">Physics-Based Modeling  |  Predictive Optimization  |  Data Science 
+<h4 align="center">Specializations: <span style="color": "red;">Physics-Based Modeling  |  Predictive Optimization  |  Data Science 
  |  Machine Learning & AI  |  Robotics</span></h4>
 
-  ----
 
 
 <h3 align="left">About Me:</h3>
 <!-- ![](https://komarev.com/ghpvc/?username=chuksoo&style=flat) -->
 
 - 🔭 I’m currently working on **advancing my data science career**
-- 🌱 I’m currently learning more about **Generative AI, Cloud-based AI and Machine Learning**
-<!--- 👯 I’m looking to collaborate on **Machine Learning projects**
-- 👨‍💻 My data science projects are available at my [Data Science Portfolio](https://github.com/chuksoo/Data-Science-Portfolio)-->
-- 💬 Ask me about **Python, R, Predcitive Modeling, Machine Learning, Data Analytics, Visualization**
-- 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/pouria-nozari/)
-- 📄 Know about my research on [ResearchGate](https://www.researchgate.net/profile/Pouria-Nozari)
-  <!--- 🤝 I’m looking for help with **MLOps**-->
+<!-- 👨‍💻 My data science projects are available at my [Data Science Portfolio](https://github.com/chuksoo/Data-Science-Portfolio)-->
+- 💬 Ask me about: **Programming**, **Data Analytics**, **Machine Learning & Statistical Modeling**, **Predictive Modeling of Biological Motor Systems**, and **Robotics**
+- 📄 Know about my experiences and research expertise on my [LinkedIn](https://www.linkedin.com/in/pouria-nozari/) or my [ResearchGate](https://www.researchgate.net/profile/Pouria-Nozari)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
