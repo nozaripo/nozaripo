@@ -1,8 +1,13 @@
 <h1 align="center">Hi there, I'm Pouria Nozari</h1>
 <h3 align="center">A passionate researcher, data scientist and engineer</h3>
 
+👨‍💻 Visit my [<h2 align='center'> Data Science Portfolio</h2>](https://github.com/nozaripo/Portfolio)
+
+
+
 <h4 align="center">Specializations: <span style="color": "red;">Physics-Based Modeling  |  Predictive Optimization  |  Data Science 
  |  Machine Learning & AI  |  Robotics</span></h4>
+
 
 
 
@@ -10,7 +15,7 @@
 <!-- ![](https://komarev.com/ghpvc/?username=chuksoo&style=flat) -->
 
 - 🔭 I’m currently working on **advancing my data science career**
-<!-- 👨‍💻 My data science projects are available at my [Data Science Portfolio](https://github.com/chuksoo/Data-Science-Portfolio)-->
+- 👨‍💻 Visit my [**Data Science Portfolio**](https://github.com/chuksoo/Data-Science-Portfolio)
 - 💬 Ask me about: **Programming**, **Data Analytics**, **Statistical Modeling**, **Predictive Modeling of Biological Motor Systems**, and **Robotics**
 - 📄 Know about my experiences and research expertise on my [LinkedIn](https://www.linkedin.com/in/pouria-nozari/) or my [ResearchGate](https://www.researchgate.net/profile/Pouria-Nozari)
 
