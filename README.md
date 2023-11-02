@@ -15,7 +15,7 @@
 <!-- ![](https://komarev.com/ghpvc/?username=chuksoo&style=flat) -->
 
 - 🔭 I’m currently working on **advancing my data science career**
-- 👨‍💻 Visit my [**Data Science Portfolio**](https://github.com/chuksoo/Data-Science-Portfolio)
+- 👨‍💻 Visit my [**Data Science Portfolio**](https://github.com/nozaripo/Portfolio)
 - 💬 Ask me about: **Programming**, **Data Analytics**, **Statistical Modeling**, **Predictive Modeling of Biological Motor Systems**, and **Robotics**
 - 📄 Know about my experiences and research expertise on my [LinkedIn](https://www.linkedin.com/in/pouria-nozari/) or my [ResearchGate](https://www.researchgate.net/profile/Pouria-Nozari)
 
