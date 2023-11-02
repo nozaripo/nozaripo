@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Pouria Nozari</h1>
 <h3 align="center">A passionate researcher, data scientist and engineer</h3>
 
-👨‍💻 Visit my [<h2 align='center'> Data Science Portfolio</h2>](https://github.com/nozaripo/Portfolio)
+[<h2 align="center">My Data Science Portfolio</h2>](https://github.com/nozaripo/Portfolio)
 
 
 
