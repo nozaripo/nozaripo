@@ -1,14 +1,17 @@
-<h1 align="center">Hi there, I'm Pouria Nozari</h1>
+<h1 align="center">Hello, I'm Pouria</h1>
 <h3 align="center">A passionate researcher, data scientist and engineer</h3>
 
-[<img src="https://github.com/nozaripo/nozaripo/assets/40179311/c3e81a03-0358-4e32-94b9-25bca57bfad5" />](https://google.com)
-
-[<h2 align="center">My Data Science Portfolio</h2>](https://github.com/nozaripo/Portfolio)
-
-
-
-<h4 align="center">Specializations: <span style="color": "red;">Physics-Based Modeling  |  Predictive Optimization  |  Data Science 
+<h4 align="center">Specialized in: <span style="color": "red;">Physics-Based Modeling  |  Predictive Optimization  |  Data Science 
  |  Machine Learning & AI  |  Robotics</span></h4>
+ 
+<p align="center">
+    <a href="[https://google.com/](https://github.com/nozaripo/Portfolio)" target="_blank">
+    <img src="https://github.com/nozaripo/Images-Links/blob/main/Data%20Science%20Portfolio%20-%20Link%20Image.png" width="550"  />
+    </a>
+</p>
+
+---
+
 
 
 
