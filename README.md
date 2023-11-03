@@ -5,7 +5,7 @@
  |  Machine Learning & AI  |  Robotics</span></h4>
  
 <p align="center">
-    <a href="[https://google.com/](https://github.com/nozaripo/Portfolio)" target="_blank">
+    <a href="https://github.com/nozaripo/Portfolio" target="_blank">
     <img src="https://github.com/nozaripo/Images-Links/blob/main/Data%20Science%20Portfolio%20-%20Link%20Image.png" width="550"  />
     </a>
 </p>
