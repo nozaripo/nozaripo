@@ -50,8 +50,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/pouria-nozari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chukwuemeka-okoli-38686923/" height="30" width="40" /></a>
 <a href="mailto:nozari.pouria@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="pythondance" height="30" width="35" /></a>
-<a href="https://www.leetcode.com/nozaripo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pythondance" height="30" width="40" /></a>
-</p>
+<!-- <a href="https://www.leetcode.com/nozaripo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pythondance" height="30" width="40" /></a>
+</p> -->
 
 
 <!--
